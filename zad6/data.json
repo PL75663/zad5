@@ -1,0 +1,19 @@
+{
+  "skills": [
+    "Język programowania C#",
+    "Tworzenie stron HTML5 & CSS3",
+    "Podstawy JavaScript",
+    "System kontroli wersji Git",
+    "Rozwiązywanie problemów algorytmicznych"
+  ],
+  "projects": [
+    {
+      "title": "Projekt 1: Aplikacja C#",
+      "description": "Stworzenie funkcjonalnej aplikacji konsolowej do zarządzania danymi w języku C#."
+    },
+    {
+      "title": "Projekt 2: Strona Internetowa CV",
+      "description": "Opracowanie responsywnej struktury strony z wykorzystaniem HTML5 i zaawansowanego stylowania CSS."
+    }
+  ]
+}
